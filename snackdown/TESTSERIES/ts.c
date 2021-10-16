@@ -34,4 +34,5 @@ int main(void)
         else    
             puts("DRAW");
     }
+    return 0;
 }
